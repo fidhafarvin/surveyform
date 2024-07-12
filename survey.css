@@ -1,0 +1,25 @@
+body{
+    background-image:url(istockphoto-1172658793-1024x1024.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+h1{
+    color: white;
+}
+#box{
+    width: 100px;
+    height: 300px;
+    background-color: aliceblue;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+
+.button{
+    background-color: blue;
+    color: white;
+}
+textarea{
+    width: 250px;
+    height: 50px;
+}
